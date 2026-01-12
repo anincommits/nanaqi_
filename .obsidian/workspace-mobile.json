@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "智能指针.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -228,13 +228,18 @@
   },
   "active": "67073afe295ac807",
   "lastOpenFiles": [
+    "智能指针的优势.md",
+    "智能指针.md",
+    "指针.md",
+    "RAII.md",
+    "可调用对象.md",
+    "/智能指针的优势.md",
+    "/智能指针.md",
+    "/指针.md",
     "/可调用对象.md",
     "/RAII.md",
     "测试1.md",
     "/测试1.md",
-    "测试.md",
-    "RAII.md",
-    "智能指针.md",
-    "指针.md"
+    "测试.md"
   ]
 }
