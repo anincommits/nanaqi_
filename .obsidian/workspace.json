@@ -241,10 +241,10 @@
   "active": "ed2cf6fbd38bced5",
   "lastOpenFiles": [
     "智能指针.md",
-    "指针.md",
     "智能指针的优势.md",
-    "RAII.md",
     "可调用对象.md",
+    "指针.md",
+    "RAII.md",
     "测试1.md",
     "测试.md",
     "新建 文本文档.txt",
