@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "运算符重载"
             }
+          },
+          {
+            "id": "57c735a03088ca05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "570973e97f2f4a76",
+  "active": "57c735a03088ca05",
   "lastOpenFiles": [
     "未命名",
     "友元.md",
