@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "49509a591da2fc7d",
@@ -211,8 +210,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cf41534fef32f000",
+  "active": "570973e97f2f4a76",
   "lastOpenFiles": [
+    "未命名",
     "友元.md",
     "运算符重载.md",
     "可调用对象.md",
