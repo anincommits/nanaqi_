@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "智能指针的优势.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "智能指针的优势"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "智能指针的优势.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "智能指针的优势 的大纲"
             }
           },
           {
@@ -237,12 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc575829c6395003",
+  "active": "ac4564add205efa4",
   "lastOpenFiles": [
+    "未命名.md",
     "智能指针的优势.md",
     "装完Latex Suite插件后的数学公式输入.md",
     "运算符重载.md",
-    "未命名.md",
     "友元.md",
     "未命名",
     "git.md",
