@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "智能指针.md",
+                "file": "运算符重载.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "智能指针"
+              "title": "运算符重载"
             }
           }
         ],
@@ -228,6 +228,7 @@
   },
   "active": "67073afe295ac807",
   "lastOpenFiles": [
+    "智能指针.md",
     "/运算符重载.md",
     "运算符重载.md",
     "/可调用对象.md",
@@ -238,7 +239,6 @@
     "/模板.md",
     "/友元.md",
     "RAII.md",
-    "智能指针.md",
     "指针.md",
     "智能指针的优势.md",
     "/智能指针.md",
