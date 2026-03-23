@@ -11,9 +11,9 @@ string str2(str1);//拷贝构造
 
 string str3=str1;//拷贝构造
 
-string str4=(str1,0,4);//部分初始化,为hell
+string str4(str1,0,4);//部分初始化,为hell
 
-string str5=(2,'c');//
+string str5(2,'c');//重复字符构造
 return 0;
 }
 ```
